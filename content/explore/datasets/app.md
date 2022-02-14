@@ -26,12 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Cognitive Development"
-    tag = "cognitive_development"
+    name = "Reading"
+    tag = "reading"
 
   [[content.filter_button]]
-    name = "Early Language"
-    tag = "early_language"
+    name = "Writing"
+    tag = "writing"
+     
+  [[content.filter_button]]
+    name = "Mathematics"
+    tag = "math"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
