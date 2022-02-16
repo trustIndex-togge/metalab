@@ -46,9 +46,9 @@ cta_alt:
   label : "View Documentation"
 
 # Note. An optional note to show underneath the links.
-cta_note:
+#cta_note:
 
-  label: "New MetaLab User? Check out <a href='documentation/getting-started'>Getting Started</a> first!"
+#  label: "New MetaLab User? Check out <a href='documentation/getting-started'>Getting Started</a> first!"
   
 right_hand_text:
   label: "The MetaLab database contains <b>`r format(sum(dataset_info$num_experiments, na.rm = TRUE), big.mark = ',')` 
@@ -60,4 +60,4 @@ right_hand_text:
 
 Interactive,  community-augmented meta-analysis tools for cognitive development research
 
-#### New: The [2020 Contribution Challenge Winners](/documentation/challenge)
+
