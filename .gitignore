@@ -3,7 +3,7 @@ public/*
 blogdown/*
 resources/*
 .Rproj.user
-content/dataset/*
+#content/dataset/*
 .Rhistory
 static/rmarkdown-libs/*
 static/explore/*
