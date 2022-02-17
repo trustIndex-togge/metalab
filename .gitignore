@@ -9,4 +9,5 @@ static/rmarkdown-libs/*
 static/explore/*
 static/report/*
 content/**/*.html
-
+Thumbs.db
+.hugo_build.lock
