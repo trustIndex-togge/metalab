@@ -43,6 +43,19 @@ list:
   domain_image : "domains/domain2.png"
 
   link : "explore/datasets/"
+  
+- feature: Feature 2
+  icon : "book"
+  icon_pack : "fas"
+  name : "Cognitive Development"
+  description : "What is the nature of children's understanding?"
+  meta_analyses : "`r nrow(dataset_info %>% dplyr::filter(domain == 'cognitive_development'))`"
+  effect_sizes : "`r format(sum((dataset_info %>% dplyr::filter(domain == 'cognitive_development'))$num_experiments),big.mark=',')`"
+  papers : "`r sum((dataset_info %>% dplyr::filter(domain == 'cognitive_development'))$num_papers)`"
+  subjects : "`r format(floor(sum((dataset_info %>% dplyr::filter(domain == 'cognitive_development'))$num_subjects)),big.mark=',')`"
+  domain_image : "domains/domain2.png"
+  link : "explore/datasets/"
+
 
 # Uncomment to use emoji icons.
 # [[feature]]
