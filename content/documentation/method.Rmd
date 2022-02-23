@@ -1,0 +1,12 @@
+---
+title: Our Method
+date: 2022-02-23
+type: book
+weight: 4
+
+---
+
+- Conduct Exhaustive assessment of the literature (review of reviews) resulting in a short list of the best evidence
+- Community augmented meta-analysis based on reviews meeting the high standards of the platform
+- Detect errors in the literature and promote correction of them
+
