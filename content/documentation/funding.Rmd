@@ -1,0 +1,9 @@
+---
+title: Funding
+date: 2020-07-26
+type: book
+weight: 10
+---
+
+
+Currently funded by the Swedish Research Council.
