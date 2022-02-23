@@ -1,5 +1,5 @@
 ---
-title: Getting Started
+title: Our vision
 weight: 1
 type: book
 summary: Troubleshoot common issues.
