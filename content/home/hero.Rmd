@@ -37,7 +37,7 @@ design.background:
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url : "/explore/apps/"
-  label : "Explore Apps"
+  label : "Watch the evidence"
   icon_pack : "fas"
   icon : "chart-bar"
   
