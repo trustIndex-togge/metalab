@@ -284,9 +284,10 @@ shinyServer(function(input, output, session) {
 
 
   #############################################################################
-  # PLOTS
+  # PLOTS 
 
-  ########### SCATTER PLOT ###########
+  ########### SCATTER PLOT ########### 
+  ######### CHANGE THIS TO PUBLICATION YEAR?? ###############
 
 #  scatter <- function() {
 #    req(input$scatter_curve)
