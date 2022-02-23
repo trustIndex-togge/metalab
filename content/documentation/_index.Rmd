@@ -3,6 +3,6 @@ title: Welcome
 type: book
 ---
 
-Welcome to MetaLab, we provide interactive tools for
-community-augmented meta-analysis, power analysis, and experimental
-planning in cognitive development research.
+Welcome to ELD, we provide interactive tools for
+community-augmented meta-analysis. All information on this page is preliminary 
+and subject to change after the first board voting for this content.
