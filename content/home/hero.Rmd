@@ -3,7 +3,7 @@ widget: "hero"
 headless: true  # This file represents a page section.
 active : true  # Activate this widget? true/false
 weight : 10  # Order that this section will appear.
-title : "MetaLab"
+title : "ELD"
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media: "eldlogo.png"
 params:
@@ -37,7 +37,11 @@ design.background:
 #   Remove a link/note by deleting a cta/note block.
 cta:
   url : "/explore/apps/"
+<<<<<<< HEAD
   label : "Watch the evidence"
+=======
+  label : "Watch the evidence!"
+>>>>>>> b2299706fef20ae1d7bf257d5a77ce9db0bd8a79
   icon_pack : "fas"
   icon : "chart-bar"
   
@@ -58,6 +62,6 @@ right_hand_text:
           subjects</b>."
 ---
 
-Interactive,  community-augmented meta-analysis tools for cognitive development research
+Evidence in Learning and Didactics. We make systematic reviews open and transparent through Community Augmented Meta-Analysis.
 
 
