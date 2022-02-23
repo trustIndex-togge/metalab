@@ -16,16 +16,16 @@
 #  parent = "a-unique-reference"
 
 [[main]]
-  name = "Evidence"
+  name = "Datasets"
   url = "explore/datasets/"
-  weight = 10
+  weight = 13
 #  parent = "a-unique-reference"
 
-#[[main]]
-#  name = "Reports"
-#  url = "explore/reports/"
-#  weight = 13
-#  parent = "a-unique-reference"
+[[main]]
+  name = "Evidence"
+  url = "app/vizaualisation/"
+  weight = 10
+ # parent = "a-unique-reference"
 
 [[main]]
   name = "Documentation"
