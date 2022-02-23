@@ -1,10 +1,11 @@
 ---
-title: Simple arithmetic competences
+title: Response to Intervention
 layout: data
 type: dataset
 tags: 
-- math
-summary: Do infants have simple arithmetic competences?<br>6 papers | 14 experiments | 369 subjects
+- reading
+summary: Response to Intervention (RTI) is a multi-tier approach to the early identification and support of students with learning and behavior needs <br> 
+4 papers | 369 students
 ---
 
 ```{r echo=FALSE, warning=FALSE, message=FALSE}
