@@ -23,7 +23,7 @@
 
 [[main]]
   name = "Evidence"
-  url = "app/vizaualisation/"
+  url = "app/visualization/"
   weight = 10
  # parent = "a-unique-reference"
 
