@@ -1,0 +1,10 @@
+---
+title: Governing principles
+type: book
+weight: 5
+summary: Troubleshoot common issues.
+---
+
+- The executive coordinator is responsible for the day-to-day work on the platform. The steering committee, led by the committee director, makes strategic decisions on the future of the platform through majority voting. The steering committee always includes the executive coordinator and the committee director. The committee strives towards a balance between different type of expertise and should typically include a mix of education researchers, systematic review method experts, librarians and active teachers.
+
+- The advisory board members are experts in different topic areas in various ways ranging from methodological experience in systematic reviews to excellence in teaching students. Can also include teachers, parents as well as students. The advisory board can be consulted when planning review and help with aspects such as relevance, policy, special method expertise, implementation, and communication of teaching ready practices.
